@@ -5,6 +5,6 @@ public class array {
         array[5] = 77;
         System.out.print(array[5]);
 
-        String[] words = {"abc", "def", "jf"}
+        String[] words = {"abc", "def", "jf"};
     }
 }
