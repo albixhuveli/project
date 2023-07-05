@@ -7,7 +7,7 @@ public class array {
         array[5] = 77;
         System.out.print(array[5]);
 
-        String[] words = {"abc", "def", "jf"};
+        String[] words = new String[3];
         words[0] = "dee";
         System.out.println(Arrays.toString(words));
     }
